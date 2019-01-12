@@ -1,0 +1,145 @@
+
+.container
+{
+	/*background: grey;*/
+	width: 1100px;
+	margin: 0 auto;
+}
+
+
+
+.header-wrapper{
+	/*background: yellow;*/
+}
+
+
+
+.logo-searchbar-wrapper
+{
+	/*background: green;*/
+	float:left;
+	width: 800px;
+	/*border: 1px solid black;*/
+}
+
+
+
+.logo-wrapper
+{
+	/*background: brown;*/
+	float: left;
+	width: 300px;
+	border: 1px solid black;
+}
+
+
+.searchbar-wrapper
+{
+	/*background: maroon;*/
+	border: 1px solid black;
+	float: right;
+	width: 500px;
+}
+
+
+.username-wrapper
+{
+	/*background: orange;*/
+	float: right;
+	width: 300px;
+	border: 1px solid black;
+}
+
+.navbar-wrapper{
+	/*background: red;*/
+}
+
+
+
+.navbar-list-wrapper
+{
+    /*background: lightgreen;*/
+    float: left;
+    border: 1px solid black;
+    width: 50%;
+}
+
+
+
+.user-info-wrapper
+{ 
+	/*background: white;*/
+	border: 1px solid black;
+	float: right;
+	width: 50%;
+}
+
+
+
+.body-wrapper{
+	/*background: purple;*/
+}
+
+
+
+.leftbar-wrapper
+{
+	/*background: plum;*/
+}
+
+
+
+.left-child-sidebar-wrapper
+{
+    /*background: pink;*/
+    float: left;
+    width: 40%;
+    border: 1px solid black;
+}
+
+
+
+.middle-content-wrapper
+{
+	/*background: lawngreen;*/
+ 	width: 30%;
+ 	float: left;
+ 	border: 1px solid black;
+}
+
+
+
+.right-sidebar-wrapper
+{
+	width: 30%;
+	float: right;
+	border: 1px solid black;
+
+}
+
+
+
+.footer-wrapper
+{
+	/*background: blue;*/
+}
+
+
+
+.left-footer-wrapper
+{
+	/*background: fuchsia;*/
+	float: right;
+	border: 1px solid black;
+	width: 50%;
+}
+
+
+
+.right-footer-wrapper
+{
+	/*background: gold;*/
+	float: left;
+	border: 1px solid black;
+	width: 50%;
+}
